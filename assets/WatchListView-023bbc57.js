@@ -1,0 +1,1 @@
+import{d as s,c as a,a as e,e as t,o,f as c,b as n,T as i,g as r}from"./index-17ca53bc.js";const d={style:{display:"flex",width:"1000px"}},m=s({__name:"WatchListView",setup(_){return(h,l)=>(o(),a("main",null,[e(c),t("div",d,[e(n),e(i)]),e(r)]))}});export{m as default};
